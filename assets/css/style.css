@@ -33389,6 +33389,7 @@ footer [class*="down"][class*="col"][class*="border"]:after {
   background-image: url(../img/tdc-new/TDC_Zoom_Dark_Blue[17].png);
   color: white;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .shift-color{
@@ -33402,6 +33403,14 @@ footer [class*="down"][class*="col"][class*="border"]:after {
 .about-logo{
   width: 400px;
   padding-bottom: 40px;
+  
+}
+
+
+@media screen and (min-width: 992px) {
+  .about-logo{
+    margin-left: -20px;
+  }
 }
 
 .hiring-new{
