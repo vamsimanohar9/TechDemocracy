@@ -1,0 +1,61 @@
+.read-more-para{
+    display: none;
+}
+
+ .show-more .read-more-para {
+    display: inline;
+}
+
+.btn-blue{
+    color: #2A51B8;
+}
+
+.read-more-para-1{
+    display: none;
+}
+
+.show-more-1 .read-more-para-1 {
+    display: inline;
+}
+
+.read-more-para-2{
+    display: none;
+}
+.show-more-2 .read-more-para-2 {
+    display: inline;
+}
+
+.read-more-para-3{
+    display: none;
+}
+.show-more-3 .read-more-para-3 {
+    display: inline;
+}
+
+.read-more-para-4{
+    display: none;
+}
+.show-more-4 .read-more-para-4 {
+    display: inline;
+}
+
+.read-more-para-5{
+    display: none;
+}
+.show-more-5 .read-more-para-5 {
+    display: inline;
+}
+
+.read-more-para-6{
+    display: none;
+}
+.show-more-6 .read-more-para-6 {
+    display: inline;
+}
+
+.read-more-para-7{
+    display: none;
+}
+.show-more-7 .read-more-para-7 {
+    display: inline;
+}
