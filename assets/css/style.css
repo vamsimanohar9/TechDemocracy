@@ -33409,7 +33409,7 @@ footer [class*="down"][class*="col"][class*="border"]:after {
 
 @media screen and (min-width: 992px) {
   .about-logo{
-    margin-left: -20px;
+    margin-left: -12px;
   }
 }
 
@@ -33441,4 +33441,12 @@ footer [class*="down"][class*="col"][class*="border"]:after {
 .article-init{
   padding-left: 30px;
   
+}
+
+.contact-para{
+  font-size: 14px !important;
+}
+
+.box-image-resize{
+  width: 481px;
 }
